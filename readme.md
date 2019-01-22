@@ -5,6 +5,7 @@
 </p>
 
 This is Slack Files Cleaner script.
+Slack does not have an option to delete bulk of files, but they provide an api which this script consumes.
 
 ## Getting Started
 
