@@ -1,7 +1,7 @@
 # Slack Files Cleaner
 
 <p align="center">
-    <img src="https://github.com/miki995/Slack-Files-Cleaner/blob/master/cleaner.png" alt="Slack Files Cleaner" width="200" height="200"/>
+    <img src="https://github.com/miki995/Slack-Files-Cleaner/blob/master/images/cleaner.png" alt="Slack Files Cleaner" width="200" height="200"/>
 </p>
 
 This is Slack Files Cleaner script.
